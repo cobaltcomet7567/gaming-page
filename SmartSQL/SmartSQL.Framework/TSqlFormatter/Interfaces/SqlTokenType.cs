@@ -47,3 +47,4 @@ namespace TSqlFormatter.Interfaces
         PseudoName
     }
 }
+// 6e41ea

@@ -51,3 +51,5 @@ namespace SmartSQL.Framework.Lang
         public string Comment { get; set; }
     }
 }
+
+// 580893

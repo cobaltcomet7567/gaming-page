@@ -178,3 +178,5 @@ namespace SmartSQL.Framework.PhysicalDataModel
         public string CSharpType { get; set; }
     }
 }
+
+// b0c263

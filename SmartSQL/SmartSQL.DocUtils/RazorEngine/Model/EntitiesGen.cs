@@ -98,3 +98,5 @@ namespace SmartSQL.DocUtils.Models
         public string CodeType { get; set; }
     }
 }
+
+// 4b2cfd

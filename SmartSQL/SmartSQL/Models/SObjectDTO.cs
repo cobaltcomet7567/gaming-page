@@ -12,3 +12,5 @@ namespace SmartSQL.Models
         public string GroupName { get; set; }
     }
 }
+
+// cd9d4a

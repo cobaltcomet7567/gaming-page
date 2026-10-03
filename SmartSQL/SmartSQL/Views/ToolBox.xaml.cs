@@ -16,3 +16,5 @@ namespace SmartSQL.Views
         }
     }
 }
+
+// a570ea

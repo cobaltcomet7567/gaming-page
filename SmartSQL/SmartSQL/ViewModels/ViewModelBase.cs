@@ -16,3 +16,5 @@ namespace SmartSQL.ViewModels
 		public event PropertyChangedEventHandler PropertyChanged;
 	}
 }
+
+// 5f612f

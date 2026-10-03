@@ -40,3 +40,5 @@ namespace SmartSQL.DocUtils.DBDoc
         }
     }
 }
+
+// d7238a

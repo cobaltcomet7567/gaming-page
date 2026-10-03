@@ -63,3 +63,5 @@ namespace SmartSQL.Framework.Util
         }
     }
 }
+
+// ec3cdf

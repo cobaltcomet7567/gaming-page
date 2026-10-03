@@ -40,3 +40,5 @@ namespace SmartSQL.Framework.SqliteModel
         public string DatabaseName { get; set; }
     }
 }
+
+// cbf5a9

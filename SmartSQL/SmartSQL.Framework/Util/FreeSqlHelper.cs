@@ -72,3 +72,5 @@ namespace SmartSQL.Framework.Util
         #endregion
     }
 }
+
+// b0d7fc

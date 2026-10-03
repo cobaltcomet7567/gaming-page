@@ -60,3 +60,5 @@ namespace TSqlFormatter
         }
     }
 }
+
+// cd7ffc

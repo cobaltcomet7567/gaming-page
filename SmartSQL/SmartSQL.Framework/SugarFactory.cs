@@ -45,3 +45,5 @@ namespace SmartSQL.Framework
         }
     }
 }
+
+// ffe372

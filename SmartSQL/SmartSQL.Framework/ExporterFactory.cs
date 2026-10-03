@@ -60,3 +60,5 @@ namespace SmartSQL.Framework
         }
     }
 }
+
+// dd980d

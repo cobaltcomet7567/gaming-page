@@ -296,3 +296,5 @@ namespace SmartSQL.UserControl.Connect
         }
     }
 }
+
+// 82d8b3

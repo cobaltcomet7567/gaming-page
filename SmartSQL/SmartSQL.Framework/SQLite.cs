@@ -4426,3 +4426,5 @@ namespace SQLite
 		}
 	}
 }
+
+// 195c7e

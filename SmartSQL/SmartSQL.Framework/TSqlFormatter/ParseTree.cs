@@ -508,3 +508,5 @@ namespace TSqlFormatter
         }
     }
 }
+
+// d76161

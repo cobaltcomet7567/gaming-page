@@ -1472,3 +1472,5 @@ namespace SQLite
 	}
 }
 
+
+// 262b27

@@ -20,3 +20,5 @@ namespace SmartSQL.Framework.Lang
         }
     }
 }
+
+// fb9a71

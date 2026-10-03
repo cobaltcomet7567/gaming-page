@@ -41,3 +41,5 @@ namespace SmartSQL.Framework.SqliteModel
         public double TimeConsuming { get; set; }
     }
 }
+
+// e35e9f

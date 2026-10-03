@@ -83,3 +83,5 @@ namespace TSqlFormatter
         string Format(string inputSQL);
     }
 }
+
+// 34dc09

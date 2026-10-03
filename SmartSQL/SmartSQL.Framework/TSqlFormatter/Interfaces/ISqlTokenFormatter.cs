@@ -27,3 +27,5 @@ namespace TSqlFormatter.Interfaces
         string FormatSQLTokens(ITokenList sqlTokenList);
     }
 }
+
+// 324b63

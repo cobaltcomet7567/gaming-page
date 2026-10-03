@@ -2224,3 +2224,5 @@ namespace TSqlFormatter.Parsers
         }
     }
 }
+
+// d8a6c4
